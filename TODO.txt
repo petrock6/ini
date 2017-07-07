@@ -1,0 +1,77 @@
+Need to save all of the ini files separately. There's a fuck ton of files, but we should be able to avoid small ones. 
+Set up a SVN repo to have logs of what's been done..
+	UPLOAD TO GITHUB REPO 
+
+To add a special power to a unit;
+	Data\ini\commandbutton.ini
+		 commandset.ini
+		 specialpower.ini
+	Tie in w/ objcet files
+	
+Missile Defender - claymore mine
+		 - think we need to make him a dozer?
+			- looks like the button is disabled. 
+			- look @ how structures are created.. 
+				- look @ how the structures lok in code. can't seem to find them...?
+				- they're in factionbuilding.ini
+			- instead of using mines, let's use very scaled back demo trap. enough to kill a battlemaster, no more. 
+Path Finder - Snipe building (1 unit at a time if possible)
+	    - allow to snipe bikes
+Pilot - Given pistol, immediately runs to base?
+	see if we can give pilot the ranger gun or something 
+Col Burton - Destroy vehicles somehow? knife attack?
+
+
+Crusader - Uranium shells (35% more damage)
+Humvee - extra tow missile upgrade for 500
+       - laser defence
+Tomahawk - burst round for more aoe 
+Paladin - Uranium shells (35% more damage)
+Sentry Drone - Remove delay 
+
+Scout drone - Movable, but not stealthed when moving. 
+	do dis
+Battle drone - Snipe upgrade to only attack infantry
+
+Chinook - Rescue ops special power -- flys to area 25% faster, leaves 50% quicker with 25% chance of dodging missiles? Might be impossible.
+	- If too hard, make more resistant to missiles. 
+Comanche - When doing rocket pods, flies to location 50% faster. 
+Raptor - Radar scrambler - leaves black area over rapter 
+Stealth Fighter - Bomb munitions and/or leaflets
+Aurora Bomber - 
+Purchase hellfire drones from airfield
+
+Machine gun on firebase
+All tanks w/ bad machine gun 
+
+
+Black Lotus - arm with gun
+		Currently has a col burton gun. Need to see if we can replace with a pistol or something.
+		Maybe use the briefcase as a weapon lol.
+	      climb cliff, VERY slowly.
+		need to fix this, currently goes at the speed of burton. 
+	      "woo over" her enemies, don't attack unless ordered to attack. 
+		for x seconds?
+	      
+China Zerg General - 2x the units for the same cost, but half the health and half the damage. 
+
+Needs severe work:
+     Colonel Burton -- needs to only be able to satchel charge vehicles. 
+
+Done:      
+     Arms Dealer produces $$$$
+     
+     Stealth Fighter - Bomb munitions and/or leaflets 
+	Needs animation update. 
+
+     Spy Drone - Movable (General's Power only) 
+	Needs animation update. 
+	
+     Ranger - Flashbang doesn't arch as high. 
+     
+     Path Finder - Shoots 3 rounds in a burst, then waits. 
+     
+     
+     
+
+	
