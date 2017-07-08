@@ -57,6 +57,16 @@ China Zerg General - 2x the units for the same cost, but half the health and hal
 
 Needs severe work:
      Colonel Burton -- needs to only be able to satchel charge vehicles. 
+     
+strategy center 20% speed increase
+rebel throws molotov cocktail
+sentry drone upgrade to shoot shells 
+	per unit?
+toxin tractor can clean toxins 
+horde bonus like "speed boost" once 10 units in a group 
+hacker disable buildings (using microwave tank code )\
+look at how the US's "show all enemies" thing works.
+	can we reverse it to make the radar go black?
 
 Done:      
      Arms Dealer produces $$$$
